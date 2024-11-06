@@ -1,1 +1,1 @@
-## This folder contains my Jupyter notebook with the full code, table, and data visualizations
+### This folder contains my Jupyter Notebook that includes all of my code, data visualizations, tables, and final results
